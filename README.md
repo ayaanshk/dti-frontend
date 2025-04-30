@@ -1,5 +1,5 @@
-# This project is hosted live: https://the-quest.tech/  
-# The backend repo of this project: https://github.com/ayaanshk/dti-backend-3.git
+## This project is hosted live: https://the-quest.tech/  
+## The backend repo of this project: https://github.com/ayaanshk/dti-backend-3.git
 
 # Getting Started with Create React App
 
